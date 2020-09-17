@@ -1,0 +1,68 @@
+﻿@model Film_Inceleme_V2.Models.Oyuncular
+@{
+    ViewBag.Title = "YeniOyuncuEkle";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2>YeniOyuncuEkle</h2>
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+
+@using (Html.BeginForm("YeniOyuncuEkle", "Yonetici", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div id="divSol">
+        @Html.LabelFor(i => Model.Adi)<br /><br />
+        @Html.LabelFor(i => Model.Soyadi)<br /><br />
+        @Html.LabelFor(i => Model.Dogum_Tarihi)<br /><br />
+        @Html.Label("Resim Yolu")<br /><br />
+
+
+    </div>
+    <div id="divSag">
+        : @Html.TextBoxFor(i => Model.Adi)<br /><br />
+        : @Html.TextBoxFor(i => Model.Soyadi)<br /><br />
+        : @Html.TextBoxFor(i => Model.Dogum_Tarihi)<br /><br />
+        <input type="file" name="file" id="file" style="width: 100%;" /> <br />
+
+
+        <br />
+        <input type="submit" value="YeniOyuncuEkle" id="btnUyeOl" />
+    </div>
+
+    @Html.ValidationSummary()
+}

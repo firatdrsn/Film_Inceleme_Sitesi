@@ -1,0 +1,114 @@
+﻿@model Film_Inceleme_V2.Models.ViewModel.OyuncuFilmViewModel
+@{
+    ViewBag.Title = "FilmeOyuncuekle";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2 class="h2">@Model.Filmler.Film_Adi Oyuncuları</h2>
+
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+@using (Html.BeginForm("OyuncuEkle", "Yonetici"))
+{
+    <table border="1" class="table pagenation">
+        <tr>
+
+            <td>Oyuncunun Adı</td>
+            <td>Oyuncunun Soyadı</td>
+            <td>Doğum Tarihi</td>
+            <td>Resim</td>
+        </tr>
+        @foreach (var dene in Model.Oyuncular)
+        {
+            <tr>
+
+                <td>@dene.Adi</td>
+                <td>@dene.Soyadi</td>
+                <td>@dene.Dogum_Tarihi.ToShortDateString()</td>
+                <td style="text-align: right;"><img style="max-width: 30%; height: auto; " src="~/images/@dene.Resim" /></td>
+                <td>@dene.Oyuncular_ID </td>
+                <td>
+
+                    @if (Model.Oyuncu_Film.Any(x => x.Oyuncular.Oyuncular_ID == dene.Oyuncular_ID))
+                    {
+                        <div class="btn btn-danger">
+                            @Html.ActionLink(
+                             "Filmden Çıkar",
+                             "OyuncuCikar",
+
+                                  new { OyuncuId = dene.Oyuncular_ID, FilmId = Session["FilmId"],Page=Model.OncekiSayfa+1 }
+                             )
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="btn btn-success">
+                            @Html.ActionLink(
+                             "Filme Ekle",
+                             "Oyuncuekle",
+
+                                  new { OyuncuId = dene.Oyuncular_ID, FilmId = Session["FilmId"], Page = Model.OncekiSayfa + 1 }
+                             )
+                        </div>
+
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+}
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        <li class="page-item">
+            <a class="page-link" href="~/Yonetici/FilmeOyuncuekle?FilmId=@Model.Filmler.Film_ID&Page=@Model.OncekiSayfa" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+
+        @for (int i = Model.StartPagination; i <= Model.EndPagination; i++)
+        {
+            <li class="page-item"><a class="page-link" href="~/Yonetici/FilmeOyuncuekle?FilmId=@Model.Filmler.Film_ID&Page=@(i-1)">@i</a></li>
+        }
+        <li class="page-item">
+            <a class="page-link" href="~/Yonetici/FilmeOyuncuekle?FilmId=@Model.Filmler.Film_ID&Page=@Model.SonrakiSayfa" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>

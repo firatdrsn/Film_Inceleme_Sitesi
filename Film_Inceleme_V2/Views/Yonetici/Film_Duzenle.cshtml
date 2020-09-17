@@ -1,0 +1,97 @@
+﻿@model Film_Inceleme_V2.Models.Filmler
+@{
+    ViewBag.Title = "Film_Duzenle";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2>Film_Duzenle</h2>
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+
+@using (Html.BeginForm("Film_Duzenle", "Yonetici", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(k => k.Film_ID)
+    @Html.LabelFor(k => k.Film_Adi)
+    <br />
+    @Html.TextBoxFor(k => k.Film_Adi, new { @class = "form-control" })
+    <br />
+
+    @Html.LabelFor(k => k.Film_Turu.Turu)
+    <br />
+    @Html.DropDownListFor(x => x.Film_Turu.Film_Turu_ID, (List<SelectListItem>)ViewBag.FilmListe)
+
+    <br />
+
+    @Html.LabelFor(k => k.Ulkeler.Ulke)
+    <br />
+
+    @Html.DropDownListFor(x => x.Ulkeler.Ulke_ID, (List<SelectListItem>)ViewBag.UlkeListe)
+
+    <br />
+    @Html.Label("Yönetmen Adi")
+    <br />
+    @Html.DropDownListFor(x => x.Yonetmenler.Yonetmenler_ID, (List<SelectListItem>)ViewBag.YonetmenListe)
+
+    <br />
+    @Html.LabelFor(k => k.Resim)
+    <br />
+    <input type="file" name="file" id="file" style="width: 100%;" />
+    <br />
+    @Html.TextBoxFor(k => k.Film_Detayi, new { @class = "form-control" })
+
+    <br />
+    if (Model.Vizyona_Giris_Tarihi != null && Model.Vizyondan_Cikis_Tarihi != null)
+    {
+        Html.TextBoxFor(k => k.Vizyona_Giris_Tarihi, new { @class = "form-control" });
+
+        <br />
+
+        Html.TextBoxFor(k => k.Vizyondan_Cikis_Tarihi, new { @class = "form-control" });
+
+        <br />
+
+    }
+    @Html.LabelFor(k => k.imdb)
+    <br />
+    @Html.TextBoxFor(k => k.imdb, new { @class = "form-control" })
+    <br />
+
+    <input type="submit" value="Kaydet" class="btn btn-success" />
+
+}
+

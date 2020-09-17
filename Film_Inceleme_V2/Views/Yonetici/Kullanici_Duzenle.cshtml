@@ -1,0 +1,87 @@
+﻿@model Film_Inceleme_V2.Models.Kullanici
+@{
+    ViewBag.Title = "Kullanici_Duzenle";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2>Kullanici_Duzenle</h2>
+
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(k => k.Kullanici_ID)
+    @Html.LabelFor(k => k.Kullanici_Adi)
+    <br />
+    @Html.TextBoxFor(k => k.Kullanici_Adi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Kullanici_Adi, null, new { @class = "text-danger" })
+    <br />
+    @Html.LabelFor(k => k.Parola)
+    <br />
+    @Html.TextBoxFor(k => k.Parola, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Parola, null, new { @class = "text-danger" })
+    <br />
+
+    @Html.LabelFor(k => k.Adi)
+    <br />
+    @Html.TextBoxFor(k => k.Adi, new { @class = "form-control" });
+    @Html.ValidationMessageFor(k => k.Adi, null, new { @class = "text-danger" })
+    <br />
+    @Html.LabelFor(k => k.Soyadi)
+    <br />
+    @Html.TextBoxFor(k => k.Soyadi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Soyadi, null, new { @class = "text-danger" })
+    <br />
+
+    @Html.LabelFor(k => k.E_Posta_Adresi)
+    <br />
+    @Html.TextBoxFor(k => k.E_Posta_Adresi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.E_Posta_Adresi, null, new { @class = "text-danger" })
+    <br />
+    @Html.LabelFor(k => k.Yetkilendirme.Yetkisi)
+    <br />
+
+    @Html.DropDownListFor(x => x.Yetkilendirme.Yetki_ID,(List<SelectListItem>)ViewBag.YetkiList)
+    @Html.ValidationMessageFor(k => k.Yetkilendirme.Yetkisi, null, new { @class = "text-danger" })
+    <br />
+    <br />
+
+    <input type="submit" value="Kaydet" class="btn btn-success" />
+
+}

@@ -1,0 +1,73 @@
+﻿
+@*@model Film_Inceleme_V2.Models.Kullanici
+@{
+    ViewBag.Title = "YeniKullanici";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+    <style type="text/css">
+        #formKapsayici {
+            box-shadow: 0 0 5px gray;
+            padding: 25px;
+            height: 500px;
+        }
+
+        #divSol{
+            float: left;
+            margin-left: 25px;
+
+        }
+        #divSag {
+            float: left;
+            margin-left: 25px;
+        }
+
+            #divSol *{
+                margin-top: 26px;
+            } 
+            #divSag * {
+                margin-top: 20px;
+            }
+            input[type="text"] {
+            width: 250px;
+        }
+      
+
+        #btnUyeOl {
+            /*clear komutu ile önceki divlerin sola yaslanarak sıralanmasında, butonun bu yaslanmaya
+            uymayıp alt satıra inmesini sağlıyoruz*/
+            clear: both;
+            display: block;
+            margin-left: 195px;
+            margin-top: 20px;
+        }
+    </style>
+
+        @using (Html.BeginForm("YeniUyelik", "Yonetici", FormMethod.Post))
+        {
+        <div id="divSol">
+            @Html.LabelFor(i => Model.Adi)<br /><br />
+            @Html.LabelFor(i => Model.Soyadi)<br /><br />
+            @Html.LabelFor(i => Model.Kullanici_Adi)<br /><br />
+            @Html.LabelFor(i => Model.E_Posta_Adresi)<br /><br />
+            @Html.LabelFor(i => Model.Parola)<br /><br />
+            @Html.LabelFor(i => Model.Gizli_Sorular.Gizli_Soru)<br /><br />
+            @Html.LabelFor(i => Model.Gizli_Cevap)<br /><br />
+            @Html.LabelFor(i => Model.Sehirler.Sehir)<br /><br />
+
+        </div>
+        <div id="divSag">
+            : @Html.TextBoxFor(i => Model.Adi)<br /><br />
+            : @Html.TextBoxFor(i => Model.Soyadi)<br /><br />
+            : @Html.TextBoxFor(i => Model.Kullanici_Adi)<br /><br />
+            : @Html.TextBoxFor(i => Model.E_Posta_Adresi)<br /><br />
+            : @Html.TextBoxFor(i => Model.Parola)<br /><br />
+            : @Html.DropDownList("Liste")<br /><br />
+            : @Html.TextBoxFor(i => Model.Gizli_Cevap)<br /><br />
+            : @Html.TextBoxFor(i => Model.Sehirler.Sehir)<br /><br />
+            <input type="submit" value="Üye Ol" id="btnUyeOl" />
+        </div>
+    
+
+    Html.ValidationSummary ile formda oluşan geçerlilik hatalarını liste halinde gösterebiliyoruz.
+    @Html.ValidationSummary()
+}*@

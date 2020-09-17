@@ -1,0 +1,73 @@
+﻿@model Film_Inceleme_V2.Models.Oyuncular
+@{
+    ViewBag.Title = "Oyuncu_Duzenle";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2>Oyuncu_Duzenle</h2>
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+
+
+@using (Html.BeginForm("Oyuncu_Duzenle", "Yonetici", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(k => k.Oyuncular_ID)
+    @Html.LabelFor(k => k.Adi)
+    <br />
+    @Html.TextBoxFor(k => k.Adi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Adi, null, new { @class = "text-danger" })
+    <br />
+    @Html.LabelFor(k => k.Soyadi)
+    <br />
+    @Html.TextBoxFor(k => k.Soyadi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Soyadi, null, new { @class = "text-danger" })
+    <br />
+    @Html.LabelFor(k => k.Dogum_Tarihi)
+    <br />
+    @Html.TextBoxFor(k => k.Dogum_Tarihi, new { @class = "form-control" })
+    @Html.ValidationMessageFor(k => k.Dogum_Tarihi, null, new { @class = "text-danger" })
+
+    <br />
+    @Html.LabelFor(k => k.Resim)
+    <br />
+    <input type="file" name="file" id="file" style="width: 100%;" />
+    <br />
+
+    <input type="submit" value="Kaydet" class="btn btn-success" />
+
+}

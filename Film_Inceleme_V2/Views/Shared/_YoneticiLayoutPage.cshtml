@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Tasarim/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+
+    <style>
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            color: white;
+            text-align: center;
+            background: #000;
+            color: #FFF;
+            outline: none;
+            font-family: 'gandhi_sansregular';
+            text-transform: uppercase;
+            font-size: 0.875em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main-content">
+        <div class="header">
+            <div class="wrap">
+                <!---start-logo---->
+                <div class="logo">
+                    <a href="~/Home/Index"><img src="~/Tasarim/images/logo.png" title="logo" /></a>
+                </div>
+                <!---End-logo---->
+                <!---start-top-menu-search---->
+                <div class="top-menu">
+                    <div class="search search right-content-heading-right">
+                        <form>
+                            <input type="text" class="textbox" value="Search:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+                            <input type="submit" value=" " />
+                        </form>
+                    </div>
+                    <div class="clear"> </div>
+                </div>
+                <div class="clear"> </div>
+                <!---End-top-menu-search---->
+            </div>
+            <!---End-header---->
+        </div>
+        <div class="wrap">
+            <div class="left-sidebar">
+                <div class="sidebar-boxs">
+                    <div class="clear"> </div>
+                    <div class="type-videos">
+                        <ul>
+                            <li><a href="~/Yonetici/Anasayfa">Anasayfa</a></li>
+                            <li><a href="~/Yonetici/Filmler">Filmler</a></li>
+                            <li><a href="~/Yonetici/OyuncularListesi">Oyuncular</a></li>
+                            <li><a href="~/Yonetici/YonetmenlerListesi">Yönetmenler</a></li>
+                            <li><a href="~/Yonetici/Yorumlar">Yorumlar</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="right-content">
+
+
+                @{Html.RenderAction("PanelUst", "Yonetici");
+                }
+                <div class="clear"> </div>
+                @RenderBody()
+            </div>
+            <div class="content-grids">
+                <div class="clear"> </div>
+                <div class="pagenation">
+
+                </div>
+                <div class="clear"> </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="footer">
+        <p> &copy; 2020 Design By Fırat Dursun</p>
+    </div>
+</body>
+
+</html>

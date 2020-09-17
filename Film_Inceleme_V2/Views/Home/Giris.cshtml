@@ -1,0 +1,81 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+    <script>location.reload(TimeRanges(2));</script>
+    <title>Kullanıcı Giriş Ekranı</title>
+    <!-- Meta tag Keywords -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+
+
+    <link href="//fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800" rel="stylesheet">
+
+    <!--/Style-CSS -->
+    <link rel="stylesheet" href="~/YoneticiTasarim/css/style.css" type="text/css" media="all" />
+    <!--//Style-CSS -->
+</head>
+
+<body>
+    <section class="w3l-forms-main-61">
+        <div class="form-inner">
+            @using (Html.BeginForm()) 
+            {
+                <div class="wrapper">
+    <div class="d-grid top-form">
+        <div class="logo">
+            <a class="brand-logo" href="Index">
+                <span>
+                    <span class="fa fa-viadeo"
+                          aria-hidden="true"></span> Kullanıcı Girişi
+                </span>
+            </a>
+            <!-- if logo is image enable this
+                        <a class="brand-logo" href="#index.html">
+                            <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+                        </a> -->
+        </div>
+    </div>
+    <div class="form-bg-blur">
+        <div class="form-61">
+            <h4 class="form-head">Giriş Ekranı</h4>
+            @if (ViewBag.Message != null)
+
+            {
+                <label>@ViewBag.Message</label>
+            }
+        <form action="#" method="GET">
+            <div class="">
+                <p class="text-head">Kullanıcı Adı</p>
+                <input type="text" name="username" class="input" required />
+            </div>
+            <div class="">
+                <p class="text-head">Parola</p>
+                <input type="password" name="password" class="input" required />
+            </div>
+            <button type="submit" class="signinbutton btn">Giriş Yap</button>
+            <a href="~/home/YeniKullanici" style="text-align:center;" class="signinbutton btn">Kayıt Ol</a>
+        </form>
+            
+        </div>
+    </div>
+</div> }
+            
+            <div class="copyright text-center">
+                <div class="wrapper">
+                    <p class="copy-footer-29">
+                        © 2020  
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

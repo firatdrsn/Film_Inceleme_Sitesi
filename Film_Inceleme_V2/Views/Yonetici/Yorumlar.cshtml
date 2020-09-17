@@ -1,0 +1,51 @@
+﻿@model List<Film_Inceleme_V2.Models.Yorumlar>
+
+@{
+    ViewBag.Title = "Yorumlar";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+
+<h3>Yorumlar Listesi</h3>
+<table border="1" class="table pagenation" width="50%" height="30%">
+    <tr>
+        <th>Kullanıcı Adı</th>
+        <th>Yorum Tarihi</th>
+        <th>Yorum Yapılan Sayfa</th>
+        <th>Yorum</th>
+
+    </tr>
+    @foreach (var dene in Model)
+    {
+        <tr>
+            <td>@dene.Kullanici.Kullanici_Adi</td>
+            <td>@dene.Yorum_Tarihi</td>
+            <td>@dene.Yorum_Yapilan_Sayfa</td>
+            <td>@dene.Yorum</td>
+            <td>
+                <div class="btn btn-danger">
+                    @Html.ActionLink(
+                    "Reddet",
+                    "YorumSil",
+
+                         new { Id = dene.Yorum_ID },
+                    new { onclick = "return confirm('Silmek İstediğinize Emin Misiniz?');" }
+                    )
+                </div>
+            </td>
+            <td>
+                <div class="btn btn-success">
+                    @Html.ActionLink(
+                    "Onayla",
+                    "YorumOnayla",
+
+                         new { Id = dene.Yorum_ID }
+                    )
+                </div>
+            </td>
+        </tr>
+    }
+
+</table>
+
+

@@ -1,0 +1,83 @@
+﻿@model Film_Inceleme_V2.Models.Filmler
+@{
+    ViewBag.Title = "YeniFilm";
+    Layout = "~/Views/Shared/_YoneticiLayoutPage.cshtml";
+}
+
+<h2>YeniFilm</h2>
+
+<style type="text/css">
+    #formKapsayici {
+        box-shadow: 0 0 5px gray;
+        padding: 25px;
+        height: 500px;
+    }
+
+    #divSol {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSag {
+        float: left;
+        margin-left: 25px;
+    }
+
+    #divSol * {
+        margin-top: 26px;
+    }
+
+    #divSag * {
+        margin-top: 20px;
+    }
+
+    input[type="text"] {
+        width: 250px;
+    }
+
+
+    #btnUyeOl {
+        /*clear komutu ile önceki divlerin sola yaslanarak sıralanmasında, butonun bu yaslanmaya
+            uymayıp alt satıra inmesini sağlıyoruz*/
+        clear: both;
+        display: block;
+        margin-left: 195px;
+        margin-top: 20px;
+    }
+</style>
+
+
+@using (Html.BeginForm("YeniFilm", "Yonetici", FormMethod.Post,new { enctype = "multipart/form-data" }))
+{
+<div id="divSol">
+    @Html.LabelFor(i => Model.Film_Adi)<br /><br />
+    @Html.LabelFor(i => Model.Film_Turu)<br /><br />
+    @Html.LabelFor(i => Model.Ulkeler.Ulke)<br /><br />
+    @Html.LabelFor(i => Model.Yapim_Yili)<br /><br />
+    @Html.LabelFor(i => Model.Vizyona_Giris_Tarihi)<br /><br />
+    @Html.LabelFor(i => Model.Vizyondan_Cikis_Tarihi)<br /><br />
+    @Html.LabelFor(i => Model.Film_Detayi)<br /><br />
+    <label>Yönetmen:</label><br /><br />
+    @Html.LabelFor(i => Model.imdb)<br /><br />
+    @Html.Label("Resim Belirleyin")<br /><br />
+
+
+</div>
+<div id="divSag">
+    : @Html.TextBoxFor(i => Model.Film_Adi)<br /><br />
+    : @Html.DropDownList("Film_Turu")<br /><br />
+    : @Html.DropDownList("UlkeListe")<br /><br />
+    : @Html.TextBoxFor(i => Model.Yapim_Yili)<br /><br />
+    : @Html.TextBoxFor(i => Model.Vizyona_Giris_Tarihi)<br /><br />
+    : @Html.TextBoxFor(i => Model.Vizyondan_Cikis_Tarihi)<br /><br />
+    : @Html.TextAreaFor(i => Model.Film_Detayi)<br /><br />
+    : @Html.DropDownList("YonetmenListe")<br /><br />
+    : @Html.TextBoxFor(i => Model.imdb)<br /><br />
+    <input type="file" name="file" id="file" style="width: 100%;" /> <br />
+
+    <br />
+    <input type="submit" value="Yeni Film Ekle" id="btnUyeOl" />
+</div>
+
+    @Html.ValidationSummary()
+}

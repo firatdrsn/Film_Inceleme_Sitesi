@@ -1,0 +1,280 @@
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll.config
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.pdb
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe.config
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.rsp
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe.config
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.rsp
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Console.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Claims.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.rsp
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csproj.CopyComplete
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.pdb
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.dll
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.xml
+C:\Users\mustafa.bal\source\repos\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.pdb
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll.config
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.pdb
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe.config
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.rsp
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe.config
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.rsp
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.AppContext.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Console.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Compression.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Claims.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.ValueTuple.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe.config
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.rsp
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Razor.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csprojAssemblyReference.cache
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csproj.CopyComplete
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll.config
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Film_Inceleme_V2.pdb
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.exe.config
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csc.rsp
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.exe.config
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\csi.rsp
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.AppContext.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Console.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Compression.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Claims.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.ValueTuple.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.exe.config
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\vbc.rsp
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\EntityFramework.SqlServer.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\PagedList.Mvc.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Razor.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Webpages.Razor.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Helpers.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Mvc.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Newtonsoft.Json.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Net.Http.Formatting.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\System.Web.Http.WebHost.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Razor.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csprojAssemblyReference.cache
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.csproj.CopyComplete
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.dll
+C:\Users\firat\Desktop\Fırat Flash\STAJ-PROJE\Film_Inceleme_V2\Film_Inceleme_V2\Film_Inceleme_V2\obj\Debug\Film_Inceleme_V2.pdb

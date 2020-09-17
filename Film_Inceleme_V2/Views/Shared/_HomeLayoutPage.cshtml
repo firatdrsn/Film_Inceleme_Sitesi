@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+
+@{ 
+    var SonEklenenFilm = (Film_Inceleme_V2.Models.Filmler)Session["Son_Eklenen_Film"];
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrapmin.v3.3.css" rel="stylesheet" />
+    <link href="~/Tasarim/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+</head>
+
+<body>
+    <div class="main-content">
+        <div class="header">
+            <div class="wrap">
+                <!---start-logo---->
+                <div class="logo">
+                    <a href="~/Home/Index"><img src="~/Tasarim/images/logo.png" title="logo" /></a>
+                </div>
+                <!---End-logo---->
+                <!---start-top-menu-search---->
+                <div class="top-menu">
+                    <div class="top-nav right-content-heading-right">
+                        <ul>
+
+                            @if (Session["Kullanici"] == null)
+                            {
+                                <li><a class="btn btn-default" href="~/home/Giris">Giriş Yap</a></li>
+                            }
+                            else
+                            {
+                                <li><a class="btn btn-danger" href="~/home/Cikis">Çıkış</a></li>
+                            }
+
+                        </ul>
+                    </div>
+                    <div class="search right-content-heading-right">
+                        @using (Html.BeginForm("Arama", "Home"))
+                        {
+                            <input name="aranan" type="text" class="textbox" value="Aranacak Film:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+                            <input type="submit" value="" />
+                        }
+                    </div>
+                    <div class="clear"> </div>
+                </div>
+                <div class="clear"> </div>
+                <!---End-top-menu-search---->
+            </div>
+            <!---End-header---->
+        </div>
+        <div class="wrap">
+            <div class="left-sidebar">
+                <div class="sidebar-boxs">
+                    <div class="sidebar-box">
+                        <h2>Son Eklenen Film</h2>
+                        @if (SonEklenenFilm != null)
+
+                        {
+                            <a href="~/home/GetFilmDetay?FilmId=@SonEklenenFilm.Film_ID"><img src="~/images/@SonEklenenFilm.Resim" /></a>
+                            <h3>@SonEklenenFilm.Film_Adi.ToUpper()</h3>
+                        }
+                    </div>
+                    <div class="clear"> </div>
+                    <div class="type-videos">
+                        <h3>Film Listeleri</h3>
+                        <ul>
+                            <li><a href="~/Home/Index">Anasayfa</a></li>
+
+                            @foreach (var item in (List<Film_Inceleme_V2.Models.Film_Turu>)Session["Film_Turu"])
+                            {
+                                <li><a href="~/Home/ListFilmTuru?FilmTuruId=@item.Film_Turu_ID">@item.Turu Türünde Filmler</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="right-content">
+             @RenderBody()
+            
+
+                <div class="clear"></div>
+            </div>
+
+            <div class="content-grids">
+                <div class="clear"> </div>
+                <!--start-pagenation-->
+                <div class="pagenation">
+
+                </div>
+                <div class="clear"> </div>
+                <!--End-pagenation-->
+            </div>
+        </div>
+    </div>
+    <div class="copy-right">
+        <p> &copy; 2020 Design By Fırat Dursun</p>
+    </div>
+</body>
+</html>
